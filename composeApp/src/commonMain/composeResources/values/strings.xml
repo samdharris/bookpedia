@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="search_hint">Search...</string>
+    <string name="close_hint">Clear search</string>
+    <string name="tab_search_results">Search Results</string>
+    <string name="tab_favourites">Favourites</string>
+    <string name="empty_search_results">oops, we couldn't find any books for your search query</string>
+    <string name="empty_favourites">No books have been favourited</string>
+
+    <string name="disk_full_error">Oops, it seems like your disk is full</string>
+    <string name="unknown_error">Oops, something went wrong</string>
+    <string name="request_timeout_error">The request timed out</string>
+    <string name="no_internet_error">No internet</string>
+    <string name="too_many_requests_error">Too many requests</string>
+
+    <string name="book_cover">Book Cover</string>
+    <string name="pages">Pages</string>
+    <string name="languages">Languages</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="description_unavailable">Description not available</string>
+
+    <string name="go_back">Go back</string>
+    <string name="mark_as_favourite">Mark as favourite</string>
+    <string name="remove_as_favourite">Remove from favourite</string>
+
+    <string name="rating">Rating</string>
+</resources>
